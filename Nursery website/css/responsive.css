@@ -1,0 +1,667 @@
+@media(min-width:320px) and (max-width:767px) {
+    .container {
+        width: 90%;
+        padding: 0 5%;
+    }
+
+    .mobile-display {
+        display: block;
+    }
+
+    .mobile-display-none {
+        display: none;
+    }
+
+    .mobile-70 {
+        width: 70%;
+    }
+
+    .mobile-70 img {
+        width: 80%;
+    }
+
+    .mobile-30 {
+        width: 30%;
+    }
+
+    .logo-25-100 h4 {
+        padding: 20px 0;
+        width: auto;
+    }
+
+    logo-25-100 h4 .fa {
+        font-size: 18px;
+        margin-right: 5px;
+    }
+
+    .logo-25-100 h4 .fa {
+        font-size: 18px;
+        margin-right: 10px;
+    }
+
+
+    /********************banner-area****************************************************/
+
+    .banner-area-60 {
+        width: 100%;
+
+    }
+
+    .banner-area-40 {
+        width: 100%;
+        float: left;
+    }
+
+    .banner-area-40-100 {
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-right: 0;
+        padding: 0;
+    }
+
+    /************************************nav area*************/
+
+    .nav-100 ul li {
+        display: inline-block;
+        text-transform: uppercase;
+        padding: 0px 6px;
+    }
+
+    .banner-area-40-100 h1 {
+        font-size: 18px;
+        text-transform: uppercase;
+
+        color: #007300;
+        padding: 6px;
+        margin-top: 13px;
+
+
+    }
+
+    .nav-100 ul li a {
+        color: #000;
+        font-weight: 500;
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+
+    .banner-area-40-100 p {
+        font-size: 15px;
+        text-transform: lowercase;
+    }
+
+    .banner-area-40-100 h2 {
+        font-size: 18px;
+        text-transform: uppercase;
+        color: #007300;
+        padding: 6px;
+
+    }
+
+    .banner-area-40-100 h4 {
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+
+    .button-area a button {
+        font-size: 10px;
+        background-color: #a2b596;
+        text-transform: uppercase;
+        border: none;
+        margin: 19px;
+        padding: 10px;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    /********************offer-area****************************************************/
+
+    .offer-area {
+        width: 100%;
+        float: left;
+        position: relative;
+        overflow: hidden;
+        margin: 15px 0;
+    }
+
+    .offer-area-25 {
+        width: 25%;
+        float: left;
+        margin: 0 0px;
+    }
+
+    .offer-area-25-100 h4 {
+        font-size: 10px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    .offer-area-25-100 .fa {
+        width: 100%;
+        float: left;
+        font-size: 14px;
+    }
+
+    /********************budget-area****************************************************/
+
+    .budget-area {
+        width: 100%;
+        float: left;
+        position: relative;
+        overflow: hidden;
+        margin: 1px 0;
+    }
+
+    .main-heading h1 {
+        color: #000;
+        font-size: 27px;
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    .budget-area2 {
+        width: 158%;
+        text-align: center;
+        height: 95px;
+        background: #4e9d3f;
+        float: left;
+        margin: 0px 32%;
+        border-radius: 50%;
+    }
+
+    .budget-area-25-100 h5 {
+        width: 100%;
+        float: left;
+        text-transform: capitalize;
+        font-size: 10px;
+        font-weight: 400;
+        padding: 14px 0;
+        line-height: 21px;
+        color: #fff;
+    }
+
+    .budget-area-25-100 h3 {
+        width: 100%;
+        float: left;
+        text-transform: capitalize;
+        font-size: 34px;
+        color: #fff;
+        line-height: 20px;
+    }
+
+    /********************category-area****************************************************/
+    .title h3 {
+        text-align: center;
+        text-decoration: #000;
+        text-transform: capitalize;
+        font-weight: 400;
+        font-size: 9px;
+        color: #ffffff;
+        background-color: #007300;
+    }
+
+    .cards {
+        width: 24%;
+        display: inline-block;
+        margin: 13px;
+        background-color: #ffffff;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+    }
+
+    .button-area2 a button {
+        font-size: 6px;
+        background-color: #a2b596;
+        text-transform: uppercase;
+        border: none;
+        margin: 1px;
+        padding: 6px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 139px;
+    }
+
+    /********************review-area****************************************************/
+    .review-area-25-100 {
+        width: 100%;
+        float: left;
+        padding: 10px 0;
+        background-color: #97d082;
+        height: 150px;
+        margin-bottom: 30px;
+    }
+
+    .review-area-inr {
+        width: 100%;
+        float: left;
+        padding: 2px 48px;
+        text-align: center;
+    }
+
+    .review-area-25-100 h4 {
+        text-transform: capitalize;
+        font-size: 11px;
+    }
+
+    .choose-area-inr {
+        width: 100%;
+        float: left;
+        padding: 1px 40px;
+        text-align: center;
+    }
+
+    .choose-area-25 {
+        width: 22%;
+        float: left;
+        margin: 0 opx;
+        box-shadow: none
+    }
+
+    .choose-area-25-100 h2 {
+        text-transform: capitalize;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    .choose-area-25-100 p {
+        text-transform: capitalize;
+        font-size: 10px;
+        font-weight: 500;
+    }
+
+    /********************all-types-area****************************************************/
+    .types-area-50 {
+        width: 100%;
+        float: left;
+    }
+
+    .types-area-50-100 {
+        width: 80%;
+        float: left;
+        padding-left: 1px;
+        padding-bottom: 5px;
+    }
+
+    .types-area-50-100 h1 {
+        text-transform: uppercase;
+        color: #007300;
+        font-size: 24px;
+
+
+    }
+
+    .types-area-50-100 p {
+        text-transform: capitalize;
+        font-size: 12px;
+
+    }
+
+    .types-area-50-100 img {
+        width: 126%;
+    }
+
+
+    .footer-area-25-100 h4{
+        text-transform: uppercase;
+        font-size: 14px;
+        color: #ffffff;
+    }
+    .footer-area-25-100 ul li a{
+        font-size: 12px;
+    }
+    .footer-area-25-100 {
+        width: 100%;
+        float: left;
+        padding-right: 3px;
+    }
+
+
+
+
+
+
+
+
+}
+
+
+
+
+/********************tablet-responsive****************************************************/
+
+
+
+
+@media(min-width:768px) and (max-width:991px) {
+    .container {
+        width: 96%;
+        padding: 0 2%;
+    }
+
+    .tablet-display {
+        display: block;
+        width: 30%;
+    }
+
+    .tablet-display-none {
+        display: none;
+    }
+
+    .mobile-70 {
+        width: 70%;
+    }
+
+    .mobile-70 img {
+        width: 40%;
+    }
+
+    .mobile-30 {
+        width: 30%;
+    }
+
+    .logo-25-100 h4 {
+        padding: 20px 0;
+        width: auto;
+    }
+
+    logo-25-100 h4 .fa {
+        font-size: 18px;
+        margin-right: 5px;
+    }
+
+    .logo-25-100 h4 .fa {
+        font-size: 18px;
+        margin-right: 10px;
+    }
+
+    .logo-50 {
+        width: 30%;
+        float: left;
+    }
+
+
+    /********************banner-area****************************************************/
+
+    .banner-area-60 {
+        width: 59%;
+
+    }
+
+    .banner-area-40 {
+        width: 40%;
+        float: left;
+    }
+
+    .banner-area-40-100 {
+        width: 40%;
+
+        text-align: center;
+        margin-right: 40;
+        padding: 0;
+    }
+
+    /************************************nav area*************/
+
+    .nav-100 ul li {
+        display: inline-block;
+        text-transform: uppercase;
+        padding: 0px 6px;
+    }
+
+    .banner-area-40-100 h1 {
+        font-size: 18px;
+        text-transform: uppercase;
+
+        color: #007300;
+        padding: 6px;
+        margin-top: 13px;
+
+
+    }
+
+    .nav-100 ul li a {
+        color: #000;
+        font-weight: 500;
+        letter-spacing: 1px;
+        font-size: 14px;
+    }
+
+    .banner-area-40-100 p {
+        font-size: 15px;
+        text-transform: lowercase;
+    }
+
+    .banner-area-40-100 h2 {
+        font-size: 18px;
+        text-transform: uppercase;
+        color: #007300;
+        padding: 6px;
+
+    }
+
+    .banner-area-40-100 h4 {
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+
+    .button-area a button {
+        font-size: 10px;
+        background-color: #a2b596;
+        text-transform: uppercase;
+        border: none;
+        margin: 19px;
+        padding: 10px;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    /********************offer-area****************************************************/
+
+    .offer-area {
+        width: 100%;
+        float: left;
+        position: relative;
+        overflow: hidden;
+        margin: 15px 0;
+    }
+
+    .offer-area-25 {
+        width: 25%;
+        float: left;
+        margin: 0 0px;
+    }
+
+    .offer-area-25-100 h4 {
+        font-size: 22px;
+        text-transform: capitalize;
+        font-weight: 400;
+    }
+
+    .offer-area-25-100 .fa {
+        width: 100%;
+        float: left;
+        font-size: 24px;
+    }
+
+    /********************budget-area****************************************************/
+
+    .budget-area {
+        width: 100%;
+        float: left;
+        position: relative;
+        overflow: hidden;
+        margin: 21px 0;
+    }
+
+    .budget-area-25 {
+        width: 19%;
+        float: left;
+        margin: 0 20px;
+        padding: 10px 0;
+    }
+
+    .main-heading h1 {
+        color: #000;
+        font-size: 27px;
+        text-transform: capitalize;
+        text-align: center;
+    }
+
+    .budget-area2 {
+        width: 65%;
+        text-align: center;
+        height: 90px;
+        background: #4e9d3f;
+        float: left;
+        margin: 0px 16%;
+        border-radius: 92%;
+    }
+
+    .budget-area-25-100 h5 {
+        width: 100%;
+        float: left;
+        text-transform: capitalize;
+        font-size: 10px;
+        font-weight: 400;
+        padding: 14px 0;
+        line-height: 21px;
+        color: #fff;
+    }
+
+    .budget-area-25-100 h3 {
+        width: 100%;
+        float: left;
+        text-transform: capitalize;
+        font-size: 34px;
+        color: #fff;
+        line-height: 20px;
+    }
+
+    /********************category-area****************************************************/
+    .title h3 {
+        text-align: center;
+        text-decoration: #000;
+        text-transform: capitalize;
+        font-weight: 400;
+        font-size: 20px;
+        color: #ffffff;
+        background-color: #007300;
+    }
+
+    .cards {
+        width: 25%;
+        display: inline-block;
+        margin: 30px;
+        background-color: #ffffff;
+        box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+    }
+
+    .button-area2 a button {
+
+        font-size: 17px;
+        background-color: #0b0b0b;
+        text-transform: uppercase;
+        border: none;
+        margin: 1px;
+        padding: 10px;
+        color: #fff;
+        cursor: pointer;
+        margin-left: 342px;
+    }
+
+    /********************review-area****************************************************/
+    .review-area-25-100 {
+        width: 100%;
+        float: left;
+        padding: 10px 0;
+        background-color: #97d082;
+        height: 150px;
+        margin-bottom: 30px;
+    }
+
+    .review-area-25 {
+        width: 19%;
+        float: left;
+        margin: 0 20px;
+    }
+
+    .review-area-inr {
+        width: 100%;
+        float: left;
+        padding: 2px 8px;
+        text-align: center;
+    }
+
+    .review-area-25-100 h4 {
+        text-transform: capitalize;
+        font-size: 16px;
+    }
+
+    .choose-area-inr {
+        width: 100%;
+        float: left;
+        padding: 11px 40px;
+        text-align: center;
+    }
+
+    .choose-area-25 {
+        width: 22%;
+        float: left;
+        margin: 0 0px;
+        box-shadow: none
+    }
+
+    .choose-area-25-100 h2 {
+        text-transform: capitalize;
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .choose-area-25-100 p {
+        text-transform: capitalize;
+        font-size: 14px;
+        font-weight: 500;
+    }
+
+    /********************all-types-area****************************************************/
+    .types-area-50 {
+        width: 50%;
+        float: left;
+    }
+
+    .types-area-50-100 {
+        width: 50%;
+        float: left;
+        padding-left: 61px;
+        padding-bottom: 5px;
+    }
+
+    .types-area-50-100 h1 {
+        text-transform: uppercase;
+        color: #007300;
+        font-size: 14px;
+
+
+    }
+
+    .types-area-50-100 p {
+        text-transform: capitalize;
+        font-size: 12px;
+
+    }
+
+    .types-area-50-100 img {
+        width: 126%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
